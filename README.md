@@ -3,5 +3,5 @@
 
 ## Daily assignments
 
-1. [Introductory HTML and JavaScript](1.md)
+1. [Introductory HTML and JavaScript](class-01.md)
 

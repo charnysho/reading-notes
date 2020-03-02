@@ -184,6 +184,22 @@
      - Properties (name+value)
      - Events are "things" that happen to HTML elements.
      - Methods are actions that can be performed on objects.
-   - 
-
+   - How the browser sees a web page:
+     - The browser receives an HTML page
+     - It creates a model of the page and stores it in memory
+     - It shows the page on screen using a rendering engine.
+   - How HTML, CSS, JS fit together:
+     - HTML(content layer)
+     - CSS(presentation layer)
+     - JS(behavior layer)
+   - How to use Object & Method:
+    ```
+    document.write('Hello world!');
+    ```
+    Where document is an object and write() is a method.
+   - `script` tag is used to define a client-side script (JavaScript). `src` attribute specifies the URL of an external script file.
+   ``` 
+   <script src="myscripts.js"></script>
+   ```
+ 
 

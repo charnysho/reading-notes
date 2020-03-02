@@ -9,7 +9,8 @@
    - <img src="https://d1o2okarmduwny.cloudfront.net/wp-content/uploads/2015/07/how-dns-works.jpg" alt="drawing" width="300"/>
 
 2. Structure 
-   - **HTML** describes the structure of pages.
+   - **HTML** describes the structure of pages
+
    ```
    <html> 
         <head>
@@ -23,6 +24,7 @@
         </body>
    </html>
    ```
+   
    `html` tag tells the browser that this is an HTML document.
    `head` tag contains information *about* the page.
    `body` tag defines the document's body.

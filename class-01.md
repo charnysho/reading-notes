@@ -36,9 +36,11 @@
 3. Extra Markup
    - **DOCTYPES** tell browsers which version of HTML you are using.
    - **Comments** in HTML 
+
    ```
    <!-- comment -->
    ```
+
    - The `id` and `class` attributes allow you to identify particular elements.
    *Note*: an HTML element can only have one unique id that belongs to that single element, while a class name can be used by multiple elements.
 
@@ -56,9 +58,11 @@
 
    - The `div` and `span` elements allow you to group block-level(`h1`,  `p`, `ul`, `li`) and inline(`a`, `b` `em`, `img`) elements together.
    - `iframe` is used to display a web page within a web page.
+   
    ```
    <iframe src="demo_iframe.htm" height="200" width="300"></iframe>
    ```
+   
    - `meta` tag allows you to supply all kinds of information about your web page.
 
    ```
@@ -135,7 +139,7 @@
         <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
    </figure>
    ```
-   
+
    - Older browsers that do not understand HTML5 elements neet to be told which elements are block-level elements.
 
 5. Process & Design

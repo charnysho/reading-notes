@@ -23,9 +23,9 @@
         </body>
     </html>
     ```
-    **html** tag tells the browser that this is an HTML document.<br>
-    **head** tag contains information *about* the page.<br>
-    **body** tag defines the document's body.
+    `html` tag tells the browser that this is an HTML document.<br>
+    `head` tag contains information *about* the page.<br>
+    `body` tag defines the document's body.
     - **Attributes** provide additional information about HTML elements.They usually come in name/value pairs like: name="value".
     ```
     <img src="test.jpg">

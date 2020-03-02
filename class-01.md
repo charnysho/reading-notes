@@ -11,7 +11,7 @@
 2. Structure 
    - **HTML** describes the structure of pages.
    ```
-    <html> 
+   <html> 
         <head>
             <title>This is the Title of the page</title>
         </head>
@@ -21,25 +21,25 @@
             <h2>Sub-heading</h2>
             <p>Another paragraph</p>
         </body>
-    </html>
-    ```
-    `html` tag tells the browser that this is an HTML document.
-    `head` tag contains information *about* the page.
-    `body` tag defines the document's body.
-    - **Attributes** provide additional information about HTML elements.They usually come in name/value pairs like: name="value".
-    ```
-    <img src="test.jpg">
-    ```
+   </html>
+   ```
+   `html` tag tells the browser that this is an HTML document.
+   `head` tag contains information *about* the page.
+   `body` tag defines the document's body.
+   - **Attributes** provide additional information about HTML elements.They usually come in name/value pairs like: name="value".
+   ```
+   <img src="test.jpg">
+   ```
     
 3. Extra Markup
    - **DOCTYPES** tell browsers which version of HTML you are using.
    - **Comments** in HTML 
-    ```
-    <!-- comment -->
-    ```
+   ```
+   <!-- comment -->
+   ```
    - The `id` and `class` attributes allow you to identify particular elements.
-    *Note*: an HTML element can only have one unique id that belongs to that single element, while a class name can be used by multiple elements.
-    ```
+   *Note*: an HTML element can only have one unique id that belongs to that single element, while a class name can be used by multiple elements.
+   ```
     <!-- A unique element -->
     <h1 id="myHeader">My Cities</h1>
 
@@ -49,76 +49,76 @@
 
     <h2 class="city">Paris</h2>
     <p>Paris is the capital of France.</p>
-    ```
+   ```
    - The `div` and `span` elements allow you to group block-level(`h1`,  `p`, `ul`, `li`) and inline(`a`, `b` `em`, `img`) elements together.
    - `iframe` is used to display a web page within a web page.
-    ```
-    <iframe src="demo_iframe.htm" height="200" width="300"></iframe>
-    ```
+   ```
+   <iframe src="demo_iframe.htm" height="200" width="300"></iframe>
+   ```
    - `meta` tag allows you to supply all kinds of information about your web page.
-    ```
-    <head>
-        <meta charset="UTF-8">
-        <meta name="description" content="Free Web tutorials">
-        <meta name="keywords" content="HTML,CSS,XML,JavaScript">
-        <meta name="author" content="John Doe">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    ```
+   ```
+   <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="Free Web tutorials">
+      <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+      <meta name="author" content="John Doe">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+   ```
    - Escape characters are used to include special characters in your pages such as <, > and ®.
 
 4. HTML5 Layout
    - `header` element represents a container for introductory content or a set of navigational links. `article` tag specifies independent, self-contained content(forum post, blog post, news story).
-    ```
-    <article>
+   ```
+   <article>
         <header>
             <h1>Most important heading here</h1>
             <h2>Less important heading here</h2>
             <p>Some additional information here</p>
         </header>
         <p>Lorem Ipsum dolor set amet....</p>
-    </article>
-    ```
-    - `footer` tag defines a footer for a document or section.
-    ```
-    <footer>
+   </article>
+   ```
+   - `footer` tag defines a footer for a document or section.
+   ```
+   <footer>
         <p>Posted by: Hege Refsnes</p>
         <p>Contact information: <a href="mailto:someone@example.com">
         someone@example.com</a>.</p>
-    </footer>
-    ```
-    - `nav` tag defines a set of navigation links.
-     ```
-    <nav>
+   </footer>
+   ```
+   - `nav` tag defines a set of navigation links.
+   ```
+   <nav>
         <a href="/html/">HTML</a> |
         <a href="/css/">CSS</a> |
         <a href="/js/">JavaScript</a> |
-    </nav>
-    ```
-    - `aside` tag defines some content aside from the content it is placed in.
-    ```
-    <p>My family and I visited The Epcot center this summer.</p>
+   </nav>
+   ```
+   - `aside` tag defines some content aside from the content it is placed in.
+   ```
+   <p>My family and I visited The Epcot center this summer.</p>
     
     <aside>
     <h4>Epcot Center</h4>
     <p>Epcot is a theme park at Walt Disney World Resort.</p>
     </aside>
-    ```
-    - `hgroup` tag is used to group the heading elements. 
-    ```
-    <hgroup> 
+   ```
+   - `hgroup` tag is used to group the heading elements. 
+   ```
+   <hgroup> 
         <h1>This is the title.</h1> 
         <h2>This is sub-title.</h2> 
-    </hgroup>
-    ```
-    - `figure` tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc. `figcaption` element is used to add a caption for the `figure` element.
-    ```
-    <figure>
+   </hgroup>
+   ```
+   - `figure` tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc. `figcaption` element is used to add a caption for the `figure` element.
+   ```
+   <figure>
         <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
         <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-    </figure>
-    ```
-    - Older browsers that do not understand HTML5 elements neet to be told which elements are block-level elements.
+   </figure>
+   ```
+   - Older browsers that do not understand HTML5 elements neet to be told which elements are block-level elements.
 
 5. Process & Design
    - **Who** is the site for:

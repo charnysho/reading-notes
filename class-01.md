@@ -9,7 +9,7 @@
    - <img src="https://d1o2okarmduwny.cloudfront.net/wp-content/uploads/2015/07/how-dns-works.jpg" alt="drawing" width="300"/>
 
 2. Structure 
-   - **HTML** describes the structure of pages.<br>
+   - **HTML** describes the structure of pages.
    ```
     <html> 
         <head>
@@ -23,8 +23,8 @@
         </body>
     </html>
     ```
-    `html` tag tells the browser that this is an HTML document.<br>
-    `head` tag contains information *about* the page.<br>
+    `html` tag tells the browser that this is an HTML document.
+    `head` tag contains information *about* the page.
     `body` tag defines the document's body.
     - **Attributes** provide additional information about HTML elements.They usually come in name/value pairs like: name="value".
     ```
@@ -37,7 +37,7 @@
     ```
     <!-- comment -->
     ```
-    - The `id` and `class` attributes allow you to identify particular elements.<br>
+   - The `id` and `class` attributes allow you to identify particular elements.
     *Note*: an HTML element can only have one unique id that belongs to that single element, while a class name can be used by multiple elements.
     ```
     <!-- A unique element -->
@@ -50,12 +50,12 @@
     <h2 class="city">Paris</h2>
     <p>Paris is the capital of France.</p>
     ```
-    - The `div` and `span` elements allow you to group block-level(`h1`,  `p`, `ul`, `li`) and inline(`a`, `b` `em`, `img`) elements together.
-    - `iframe` is used to display a web page within a web page.
+   - The `div` and `span` elements allow you to group block-level(`h1`,  `p`, `ul`, `li`) and inline(`a`, `b` `em`, `img`) elements together.
+   - `iframe` is used to display a web page within a web page.
     ```
     <iframe src="demo_iframe.htm" height="200" width="300"></iframe>
     ```
-    - `meta` tag allows you to supply all kinds of information about your web page.
+   - `meta` tag allows you to supply all kinds of information about your web page.
     ```
     <head>
         <meta charset="UTF-8">
@@ -65,7 +65,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     ```
-    - Escape characters are used to include special characters in your pages such as <, > and ®.
+   - Escape characters are used to include special characters in your pages such as <, > and ®.
 
 4. HTML5 Layout
    - `header` element represents a container for introductory content or a set of navigational links. `article` tag specifies independent, self-contained content(forum post, blog post, news story).

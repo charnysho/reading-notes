@@ -1,10 +1,7 @@
-## Code 201 Reading Notes
-> 15 daily reading assignments. 
+# Code 201 Reading Notes
+15 daily reading assignments about HTML, CSS, JS 
 
-| #  | Topics |
-| ------------- | ------------- |
-| `1`  | [Introductory HTML and JavaScript])(#introductory-html-and-javascript)  |
+## Daily assignments
 
-### Introductory HTML and JavaScript
-
+1. [Introductory HTML and JavaScript](#)
 

@@ -64,6 +64,131 @@ Internal styles are defined within the `<style>` element, inside the `<head>` se
   </head>
   ```
 
-  3. CSS selectors are patterns used to select the element(s) you want to style.
+3. CSS selectors are patterns used to select the element(s) you want to style.
   <img src="selectors.jpg" alt="drawing" width="300"/>
   
+
+### JavaScript
+
+1. Statement 
+A computer program is a list of "instructions" to be "executed" by a computer.
+In a programming language, these programming instructions are called **statements**.
+
+2. Comments
+
+```
+// Change paragraph:
+```
+
+or
+
+```
+/*
+Comment
+*/
+```
+
+3. Variable are containers for storing data values.
+<img src="https://tutorial.techaltum.com/images/js-variables.jpg" alt="drawing" width="300"/>
+
+4. Data types
+<img src="https://dotnettrickscloud.blob.core.windows.net/img/javascript/js-datatype.png" alt="drawing" width="300"/>
+
+5. Arrays are used to store multiple values in a single variable.
+
+```
+var array_name = [item1, item2, ...];
+```
+
+6. Expression 
+   - assign a value to a variable
+
+   ```
+   var color = 'black';
+   ```
+
+   - use to or more values to return a single value
+
+   ```
+   var area = 3 * 2;
+   ```
+
+7. Operators
+      - Assignment
+
+      ```
+      var x = 10;
+      ```
+
+      - Adding
+
+      ```
+      var x = 5;
+      var y = 2;
+      var z = x + y;
+      ```
+
+      - Multiplying
+
+      ```
+      var x = 5;
+      var y = 2;
+      var z = x * y;
+      ```
+
+      - String operator
+
+      ```
+      greeting = 'Hi' + 'Molly'
+      ```
+
+      - Comparison
+
+      ```
+      buy = 3 > 5;
+      ```
+
+      - Logical
+
+      ```
+      buy = (5 > 3) && (2 < 4);
+      ```
+
+10. Conditional Statements (when you want to perform different actions for different decisions)
+
+```
+if (condition) {
+  //  block of code to be executed if the condition is true
+} else { 
+  //  block of code to be executed if the condition is false
+}
+```
+
+9. Comparison operators
+<img src="https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041.jpg" alt="drawing" width="300"/>
+
+10. Logical operators
+<img src="https://www.bccfalna.com/ebooks/wp-content/uploads/ebooks/2019/08/Boolean-Operators-Logical-AND-Logical-OR-Logical-NOT-in-JavaScript-in-Hindi-580x435.jpg" alt="drawing" width="300"/>
+
+11. `if` statement
+    - `if` statement to specify a block of JavaScript code to be executed if a condition is true.
+
+    ```
+    if (condition) {
+    //  block of code to be executed if the condition is true
+    }
+    ```
+
+    - `if else` statement to specify a block of code to be executed if the condition is false.
+
+    ```
+    if (condition) {
+    //  block of code to be executed if the condition is true
+    } else { 
+    //  block of code to be executed if the condition is false
+    }
+    ```
+
+    
+
+

@@ -23,3 +23,47 @@
 | Changes to content      | `<p>My favorite color is <del>blue</del> <ins>red</ins>!</p>` | Defines a text that has been inserted into a document.  |
 | Changes to content      | `<p>My favorite color is <del>blue</del> <ins>red</ins>!</p>` | Defines text that has been deleted from a document.  |
 | Changes to content      | `<p><s>My car is blue.</s></p>` | specifies text that is no longer correct, accurate or relevant. |
+
+
+### CSS
+
+<img src="https://i.pinimg.com/originals/5d/7a/82/5d7a82064300f646c963998ebb22ff70.gif" alt="drawing" width="300"/>
+
+1. External CSS
+External styles are defined within the `<link>` element, inside the `<head>` section of an HTML page:
+
+  ```
+  <html>
+      <head>
+        <link rel="stylesheet" type="text/css" href="mystyle.css">
+      </head>
+      <body>
+
+        <h1>This is a heading</h1>
+        <p>This is a paragraph.</p>
+
+      </body>
+  </html>
+  ```
+
+2. Internal CSS
+Internal styles are defined within the `<style>` element, inside the `<head>` section of an HTML page:
+
+  ```
+  <head>
+    <style>
+    body {
+      background-color: linen;
+    }
+
+    h1 {
+      color: maroon;
+      margin-left: 40px;
+    } 
+    </style>
+  </head>
+  ```
+
+  3. CSS selectors are patterns used to select the element(s) you want to style.
+  <img src="selectors.jpg" alt="drawing" width="300"/>
+  

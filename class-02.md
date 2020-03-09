@@ -1,4 +1,4 @@
-## [HTML text](#html-text), [CSS](css) Introduction, and Basic [JavaScript](javascript) Instructions
+## [HTML text](#html-text), [CSS](#css) Introduction, and Basic [#JavaScript](javascript) Instructions
 
 ### HTML text
 

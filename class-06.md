@@ -1,4 +1,4 @@
-## [JS Object](js-objects) Literals; The [DOM](dom)
+## [JS Object](#js-objects) Literals; The [DOM](#dom)
 
 ### JS Object
 

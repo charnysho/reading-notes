@@ -1,4 +1,4 @@
-## HTML [Links](links), CSS [Layout](layout), JS [Functions](functions)
+## HTML [Links](#links), CSS [Layout](#layout), JS [Functions](#functions)
 
 ### Links
 

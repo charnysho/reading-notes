@@ -1,4 +1,4 @@
-## HTML [Lists](lists), CSS [Boxes](boxes), JS [Control Flow](control-flow)
+## HTML [Lists](#lists), CSS [Boxes](#boxes), JS [Control Flow](#control-flow)
 
 ### Lists
 

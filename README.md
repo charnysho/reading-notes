@@ -13,3 +13,4 @@
 8. [More CSS Layout](class-08.md)
 9. [Forms and Events](class-09.md)
 10. [JS Debugging](class-10.md)
+11. [Assorted Topics: Images, CEO, Video and Audio APIs](class-11.md)

@@ -14,3 +14,4 @@
 9. [Forms and Events](class-09.md)
 10. [JS Debugging](class-10.md)
 11. [Assorted Topics: Images, CEO, Video and Audio APIs](class-11.md)
+12. [Docs for the HTML <canvas> Element & Chart.js](class-12.md)

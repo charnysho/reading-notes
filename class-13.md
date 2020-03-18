@@ -33,3 +33,42 @@ function supports_html5_storage() {
 
 ### USING HTML5 STORAGE
 
+```
+interface Storage {
+  getter any getItem(in DOMString key);
+  setter creator void setItem(in DOMString key, in any data);
+};
+```
+
+### TRACKING CHANGES TO THE HTML5 STORAGE AREA
+
+```
+if (window.addEventListener) {
+  window.addEventListener("storage", handle_storage, false);
+} else {
+  window.attachEvent("onstorage", handle_storage);
+};
+```
+**STORAGEEVENT OBJECT**
+  - key (string) the named key that was added, removed, or modified
+  - oldValue (any) the previous value (now overwritten), or null if a new item was added
+  - newValue (any) the new value, or null if an item was removed
+  - url (string) the page which called a method that triggered this change
+
+  ### HTML5 STORAGE IN ACTION
+
+  ```
+  function saveGameState() {
+    if (!supportsLocalStorage()) { return false; }
+    localStorage["halma.game.in.progress"] = gGameInProgress;
+    for (var i = 0; i < kNumPieces; i++) {
+	localStorage["halma.piece." + i + ".row"] = gPieces[i].row;
+	localStorage["halma.piece." + i + ".column"] = gPieces[i].column;
+    }
+    localStorage["halma.selectedpiece"] = gSelectedPieceIndex;
+    localStorage["halma.selectedpiecehasmoved"] = gSelectedPieceHasMoved;
+    localStorage["halma.movecount"] = gMoveCount;
+    return true;
+}
+```
+

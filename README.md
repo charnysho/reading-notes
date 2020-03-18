@@ -15,4 +15,6 @@
 10. [JS Debugging](class-10.md)
 11. [Assorted Topics: Images, CEO, Video and Audio APIs](class-11.md)
 12. [Docs for the HTML <canvas> Element & Chart.js](class-12.md)
-12. [Local Storage](class-13.md)
+13. [Local Storage](class-13.md)
+14. [CSS Transforms, Transitions, and Animations](class-14.md)
+15. [Local Storage](class-15.md)

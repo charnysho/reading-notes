@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 15 daily reading assignments about HTML, CSS, JS 
 
-## Daily assignments
+## Course 201
 
 1. [Introductory HTML and JavaScript](class-01.md)
 2. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
@@ -18,3 +18,8 @@
 13. [Local Storage](class-13.md)
 14. [CSS Transforms, Transitions, and Animations](class-14.md)
 15. [Local Storage](class-15.md)
+
+## Course 301
+
+1. 
+2. [jQuery, Events, and The DOM](/301/class-02.md)

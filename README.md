@@ -21,5 +21,5 @@
 
 ## Course 301
 
-1. 
+1. [SMACSS and Responsive Web Design](/301/class-01.md)
 2. [jQuery, Events, and The DOM](/301/class-02.md)

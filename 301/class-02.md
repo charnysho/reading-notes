@@ -93,3 +93,22 @@ $(document).ready(function(){
 </body>
 </html>
 ```
+
+### 6 Reasons for Pair Programming
+
+1. Greater efficiency
+   - Pairing enhances technical skills, team communication, and even enjoyability of coding in the workplace.
+   
+2. Engaged collaboration
+   - When developers pair program, they rely more on each other and can often find a solution together without needing to ask for additional help. 
+
+3. Learning from fellow students
+   -The less experienced developer benefits from the experienced developer’s knowledge and guidance, and the latter benefits from explaining the topic in their own words, further solidifying their own understanding.
+
+4. Social skills
+   - As much as employers want strong programmers, they know it’s essential to hire people who can work well with others.
+
+5. Job interview readiness
+   - For most roles, the ability to work with and learn from others and stellar communication skills are as (or more!) important to a company than specific technical skills. Pair programming strengthens all of those skills.
+
+6. Work environment readiness

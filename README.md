@@ -23,3 +23,4 @@
 
 1. [SMACSS and Responsive Web Design](/301/class-01.md)
 2. [jQuery, Events, and The DOM](/301/class-02.md)
+3. [Flexbox and Templating](/301/class-03.md)

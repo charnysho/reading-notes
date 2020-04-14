@@ -25,4 +25,5 @@
 2. [jQuery, Events, and The DOM](/301/class-02.md)
 3. [Flexbox and Templating](/301/class-03.md)
 4. [Responsive Web Design and Regular Expressions](/301/class-04.md)
-4. [HEROKU](/301/class-05.md)
+5. [HEROKU](/301/class-05.md)
+6. [NODE.JS](/301/class-06.md)

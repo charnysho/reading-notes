@@ -27,3 +27,4 @@
 4. [Responsive Web Design and Regular Expressions](/301/class-04.md)
 5. [HEROKU](/301/class-05.md)
 6. [NODE.JS](/301/class-06.md)
+7. [APIs](/301/class-07.md)

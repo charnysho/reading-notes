@@ -29,3 +29,4 @@
 6. [NODE.JS](/301/class-06.md)
 7. [APIs](/301/class-07.md)
 8. [SQL](/301/class-08.md)
+9. [Refactoring](/301/class-09.md)

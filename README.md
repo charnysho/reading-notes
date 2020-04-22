@@ -32,3 +32,4 @@
 9. [Refactoring](/301/class-09.md)
 10. [The Call Stack and Debugging](/301/class-10.md)
 11. [EJS](/301/class-11.md)
+11. [EJS PARTIALS](/301/class-12.md)

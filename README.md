@@ -34,3 +34,4 @@
 11. [EJS](/301/class-11.md)
 12. [EJS PARTIALS](/301/class-12.md)
 13. [SENDING FORM DATA](/301/class-13.md)
+14. [DB Normalization](/301/class-14.md)
